@@ -1,10 +1,16 @@
-Teste CloudFox
+## Teste CloudFox
 
-Instalação:
+<br>
 
+## Instalação:
+
+<br>
 composer install
+<br>
 npm install
+<br>
 npm run prod
+<br>
 php artisan serve
 
 
